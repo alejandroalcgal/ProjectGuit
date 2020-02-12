@@ -28,8 +28,8 @@ namespace projectHub
         {
             char letter = 'A';
             string dniKey = "TRWAGMYFPDXBNJZSQVHLCKET";
-            int position = dniKey.Length % 23;
-            
+            int position = dniKey.Length / 23;
+            letter = dniKey[position];
 
             return letter;
         }
