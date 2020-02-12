@@ -1,0 +1,8 @@
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\bin\Debug\EJEMPLODNI.exe.config
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\bin\Debug\EJEMPLODNI.exe
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\bin\Debug\EJEMPLODNI.pdb
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\obj\Debug\EJEMPLODNI.csprojAssemblyReference.cache
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\obj\Debug\EJEMPLODNI.Properties.Resources.resources
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\obj\Debug\EJEMPLODNI.csproj.GenerateResource.cache
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\obj\Debug\EJEMPLODNI.exe
+C:\Users\alejandroalcgal\Desktop\git\EJEMPLODNI\obj\Debug\EJEMPLODNI.pdb
